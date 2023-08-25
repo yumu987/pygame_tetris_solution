@@ -1,2 +1,2 @@
 # pygame_tetris_solution
-Solution file for tetris back up
+Solution file for tetris backup
